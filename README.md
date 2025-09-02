@@ -51,7 +51,6 @@ O objetivo do SIGIL é oferecer uma solução completa e robusta, unindo tecnolo
 *Em fase de desenvolvimento.*
 
 ### 🛠️ Como Contribuir
-*(Adicionar aqui as diretrizes de contribuição se o projeto for open source).*
 
 ### 📄 Licença
-*(Definir e detalhar a licença do projeto aqui).*
+*Este projeto é protegido por direitos autorais e distribuído sob uma licença proprietária. Todos os direitos são reservados. Consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes. É proibida a cópia, modificação e distribuição não autorizada deste software.*
